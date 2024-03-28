@@ -19,3 +19,8 @@ const readme = `\
 ---
 ⏰ Updated on ${new Date().toUTCString()}
 ---
+
+![Progress Bar CI](https://github.com/DexterZzz1010/DexterZzz1010/workflows/Progress%20Bar%20CI/badge.svg)\
+`
+
+console.log(readme)
