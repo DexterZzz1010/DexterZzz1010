@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70202&random=false&width=435&lines=Welcome+to+Dexter's+Github)](https://git.io/typing-svg)
 
 ### Hi there 👋
-⏳ Year progress { ███████████████████████████▁▁▁ } 90.59 %
+⏳ Year progress { ███████████████████████████▁▁▁ } 90.70 %
 ---
-⏰ Updated on Fri, 27 Nov 2026 15:57:19 GMT
+⏰ Updated on Sat, 28 Nov 2026 00:56:39 GMT
 ---
 
 
